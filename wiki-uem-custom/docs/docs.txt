@@ -1,0 +1,21 @@
+wiki-uem-custom/
+├── login/
+│   └── login.php
+├── cadastro/
+│   ├── cadastro_aluno.php
+│   ├── cadastro_professor.php
+│   ├── cadastro_funcionario.php
+├── includes/
+│   └── conexao.php
+│   └── funcoes.php (validadores extras)
+├── uploads/
+├── assets/
+│   └── css/
+│       └── estilo.css
+│   └── img/
+│       ├── aluno.png
+│       ├── professor.png
+│       ├── funcionario.png
+│       └── uem-logo.png
+└── termos/
+    └── politica_uso.html
